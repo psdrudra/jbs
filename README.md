@@ -1,2 +1,0 @@
-# jbs
-Jangannath Dham
